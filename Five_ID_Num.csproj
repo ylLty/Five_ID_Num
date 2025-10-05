@@ -8,4 +8,14 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="icon\Five_ID_Num-128.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icon\Five_ID_Num-128.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
 </Project>
