@@ -13,6 +13,7 @@
 
 [夸克网盘](https://pan.quark.cn/s/25c5087c7427)
 
+[安卓版见此处](https://github.com/ylLty/FiveIdNumForAndroid)
 ## 使用
 
 > 我想我不用多介绍了
@@ -64,3 +65,4 @@
 
 
 ![Donate](https://github.com/ylLty/DG-LAB-X-tMod/blob/main/%E8%B5%9E%E5%8A%A9Donate.jpg?raw=true)
+
